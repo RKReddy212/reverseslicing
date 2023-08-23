@@ -1,0 +1,4 @@
+a="ramkumar"
+print(a[::-1])
+
+#it becomes ramukmar
